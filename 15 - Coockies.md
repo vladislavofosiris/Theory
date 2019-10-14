@@ -31,7 +31,7 @@ cookie.Expires = DateTime.Now.AddYears(1);
 
 Теперь можно увидеть информацию о добавленном cookie-наборе в браузере:
 
-[](https://professorweb.ru/my/ASP_NET/base/level5/files/img51062.jpg)
+![](https://professorweb.ru/my/ASP_NET/base/level5/files/img51062.jpg)
 
 Извлекаются cookie-наборы по именам с помощью коллекции Request.Cookies:
 
